@@ -4,16 +4,28 @@
 	 	font-size: 275%;
 	 	font-family: Times;
 	       }
-	 .yellowbackground{
-	    background-color: orange;
-	          }
-	.orangetext{ 
-		color: orange;
+	.blacktext{ 
+		color: black;
 		text-align: center;
+		font-weight: bold;
 	          }
 	.footertable {
 		width: 400;
 		margin-left:auto; 
 	    margin-right:auto;
 	}
+	a:link {
+}
+
+a:visited {
+    background-color: red;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+a:active {
+    text-decoration: none;
+} 
 
