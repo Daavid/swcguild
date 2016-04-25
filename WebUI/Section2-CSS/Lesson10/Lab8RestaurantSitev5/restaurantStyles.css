@@ -1,39 +1,42 @@
-                body
-{
-    padding-top: 0px;
+body {
+  padding-top: 0px;
 }
-                .title {
-                               text-align: center;
-                               font-size: 250%;
-                               font-family: Times;
-                       }
-                .blacktext{
-                                color: black;
-                                text-align: center;
-                                font-weight: bold;
-                          }
-                .footertable {
-                                width: 400;
-                                margin-left:auto;
-                    margin-right:auto;
-                    bottom: 0;
-                }
-                a:link {
+
+.title {
+  text-align: center;
+  font-size: 250%;
+  font-family: Times;
 }
- 
+
+.blacktext {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+.footertable {
+  width: 400;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 0;
+}
+
+a:link {}
+
 a:visited {
-    background-color: red;
+  background-color: red;
 }
- 
+
 a:hover {
-    font-weight: bold;
+  font-weight: bold;
 }
- 
+
 a:active {
-    text-decoration: none;
+  text-decoration: none;
 }
+
 table.center {
-    width:80%;
-    margin-left:10%;
-    margin-right:10%;
-  }
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
